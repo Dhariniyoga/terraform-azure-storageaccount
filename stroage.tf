@@ -6,3 +6,4 @@ resource "azurerm_storage_account" "vishnustorage" {
   account_replication_type = "LRS"
   account_tier = "Standard"
 }
+
